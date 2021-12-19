@@ -1,4 +1,15 @@
-### Hi there 👋
+### <div align="center" width="200"> Hi there 👋 I'm Jaime, a 27 yo Andalusian developer</div>
+
+<p align="center">
+    <a href="mailto:jaime.cardenas176@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/Jaime_c7">
+        <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white" />
+    </a>
+</p>
+  
+<br>
 
 <!--
 **JaimeCardenas176/JaimeCardenas176** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +26,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## ℹ About me
-I'm Jaime Cárdenas and Im a mainly front-end developer starting to doing full-stack, always researching how to better solve problems,
-love learning new stuff so im on the way for golang, clean code & software architecrure, DS & Algorithms.
+I'm Jaime Cárdenas and Im a mainly front-end developer, specialiced in Angular, starting to do full-stack stuff, always researching how to better solve problems,
+love learning new stuff so im in the way for golang, clean code & software architecrure, DS & Algorithms.
 
 ## 👨‍💻 What I can Do
 <table>
