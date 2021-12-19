@@ -32,6 +32,7 @@ love learning new stuff so im on the way for golang, clean code & software archi
     <tr>
       <td>
         <img src="https://img.shields.io/badge/HTML-F4470B?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/css-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1e"/>
