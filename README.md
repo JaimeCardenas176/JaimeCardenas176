@@ -64,7 +64,7 @@ love learning new stuff so im in the way for golang, clean code & software archi
       </td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Go-69d7e4?style=for-the-badge&logo=go&logoColor=white"/>
+        <img style="color: white" src="https://img.shields.io/badge/Go-69d7e4?style=for-the-badge&logo=go&logoColor=ffffff"/>
         <img src="https://img.shields.io/badge/Docker-F7F7F7?style=for-the-badge&logo=docker&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Linux-F7C700?style=for-the-badge&logo=linux&logoColor=black"/>
       </td>
