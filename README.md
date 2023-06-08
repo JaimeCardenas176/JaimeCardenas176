@@ -1,4 +1,4 @@
-### <div align="center" width="200"> Hi there 👋 I'm Jaime, a 27 yo Andalusian developer</div>
+### <div align="center" width="200"> Hi there 👋 I'm Jaime, a 29 yo Andalusian developer</div>
 
 <p align="center">
     <a href="mailto:jaime.cardenas176@gmail.com">
@@ -54,6 +54,7 @@ love learning new stuff so im in the way for golang, clean code & software archi
       <td>
         <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring%20Boot-67AA3C?style=for-the-badge&logo=springboot&logoColor=white"/>
       </td>
       <td>
@@ -63,7 +64,7 @@ love learning new stuff so im in the way for golang, clean code & software archi
       </td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Go-69d7e4?style=for-the-badge&logo=go&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-F7F7F7?style=for-the-badge&logo=docker&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Linux-F7C700?style=for-the-badge&logo=linux&logoColor=black"/>
       </td>
